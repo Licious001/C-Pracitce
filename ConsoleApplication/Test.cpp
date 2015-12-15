@@ -5,7 +5,7 @@ class A{
 public:
 	const int i;
 	int j;
-	int k;
+	int kk;
 	A() :i(0){}
 };
 
