@@ -4,6 +4,7 @@ using namespace std;
 class A{
 public:
 	const int i;
+	int j; 
 	A() :i(0){}
 };
 
