@@ -4,7 +4,8 @@ using namespace std;
 class A{
 public:
 	const int i;
-	int j; 
+	int j;
+	int k;
 	A() :i(0){}
 };
 
